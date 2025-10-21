@@ -1,0 +1,26 @@
+
+.bg-brown { background-color: #6b3e2e !important; }
+.text-brown { color: #6b3e2e !important; }
+.btn-brown {
+  background-color: #6b3e2e;
+  color: white;
+  border: none;
+}
+.btn-brown:hover {
+  background-color: #4a2a1b;
+  color: #fff;
+}
+
+
+.produk-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.produk-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+
+.footer {
+  border-top: 3px solid #d2b48c;
+}
